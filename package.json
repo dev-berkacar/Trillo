@@ -1,0 +1,12 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "sass": "sass sass/main.scss css/styles.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
